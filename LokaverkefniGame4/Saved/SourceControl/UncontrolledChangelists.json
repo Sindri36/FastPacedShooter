@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/hetja/Documents/FastPacedShooter/LokaverkefniGame4/Content/Components/ParkourMovement.uasset",
+				"C:/Users/hetja/Documents/FastPacedShooter/LokaverkefniGame4/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/hetja/Documents/Unreal Projects/LokaverkefniGame4/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
