@@ -7,12 +7,16 @@
 			"files": [
 				"C:/Users/hetja/Documents/FastPacedShooter/LokaverkefniGame4/Content/Components/ParkourMovement.uasset",
 				"C:/Users/hetja/Documents/FastPacedShooter/LokaverkefniGame4/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/hetja/Documents/FastPacedShooter/LokaverkefniGame4/Content/ParkourBluePrints/Enums/E_ParkourMovementsType.uasset",
 				"C:/Users/hetja/Documents/FastPacedShooter/LokaverkefniGame4/Content/ParkourBluePrints/Enums/E_ParkourMovementType.uasset",
 				"C:/Users/hetja/Documents/FastPacedShooter/LokaverkefniGame4/Content/ParkourBluePrints/CameraShakes/JumpLand.uasset",
 				"C:/Users/hetja/Documents/FastPacedShooter/LokaverkefniGame4/Content/ParkourBluePrints/CameraShakes/Mantle.uasset",
 				"C:/Users/hetja/Documents/FastPacedShooter/LokaverkefniGame4/Content/ParkourBluePrints/CameraShakes/LedgeGrab.uasset",
 				"C:/Users/hetja/Documents/FastPacedShooter/LokaverkefniGame4/Content/ParkourBluePrints/CameraShakes/QuickMantle.uasset",
+				"C:/Users/hetja/Documents/FastPacedShooter/LokaverkefniGame4/Content/FirstPersonArms/Animations/FP_Sprint_Fwd_2.uasset",
+				"C:/Users/hetja/Documents/FastPacedShooter/LokaverkefniGame4/Content/FirstPersonArms/Animations/FP_Sprint.uasset",
+				"C:/Users/hetja/Documents/FastPacedShooter/LokaverkefniGame4/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset",
+				"C:/Users/hetja/Documents/FastPacedShooter/LokaverkefniGame4/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset",
+				"C:/Users/hetja/Documents/FastPacedShooter/LokaverkefniGame4/Content/ParkourBluePrints/Enums/E_ParkourMovementsType.uasset",
 				"C:/Users/hetja/Documents/Unreal Projects/LokaverkefniGame4/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
